@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Ekems 👋",
   //profile: "/profile.webp",
   description:
-    "I am a *Devops Engineer*, have worked previously as Cloud, DevOps and Solutions Engineer and have been in the tech industry for *6 years*. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
+    "I am a *Devops Engineer*, have worked previously as Cloud, DevOps and Solutions Engineer and have been in the tech industry for *3 years*. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
   socials: [
     {
       label: "YouTube",
