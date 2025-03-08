@@ -12,27 +12,16 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "akpavieekemena@gmail.com",
-  title: "Hi, I’m Ekems 👋",
+  mail: "olusegunfatodu@gmail.com",
+  title: "Hi, I’m Segun 👋",
   //profile: "/profile.webp",
   description:
-    "I am a *Devops Engineer*, have worked previously as Cloud, DevOps and Solutions Engineer and have been in the tech industry for *3 years*. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
-  socials: [
-    {
-      label: "YouTube",
-      link: "https://youtube.com/@ekemenaakpavie",
-    },
-    {
-      label: "X",
-      link: "https://twitter.com/lord_ekems",
-    },
-    {
-      label: "LinkedIn",
-      link: "https://linkedin.com/in/ekemenaakpavie",
-    },
+    "I am a *Devops Intern*, I have learnt infracture as a code, containerization with docker and kubernetes, cloud platform like AWS and Azure,monitoring and logging,networking and security.
+    :[
+      
     {
       label: "GitHub",
-      link: "https://github.com/ekemena97",
+      link: "https://github.com/Olussegun",
     },
     
   ],
